@@ -1,0 +1,15 @@
+TRUNCATE tb_admin_logs;
+TRUNCATE tb_cart;
+TRUNCATE tb_order;
+TRUNCATE tb_order_detail;
+TRUNCATE tb_order_ticket;
+TRUNCATE tb_order_ticket_detail;
+TRUNCATE tb_order_ticket_rate;
+TRUNCATE tb_product;
+TRUNCATE tb_product_image;
+TRUNCATE tb_rate;
+TRUNCATE tb_recommended_products;
+TRUNCATE tb_self_order;
+TRUNCATE tb_self_order_detail;
+TRUNCATE tb_self_order_rate;
+TRUNCATE tb_slider_images;
